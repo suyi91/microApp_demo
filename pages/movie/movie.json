@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "正在上映的电影",
+  "window": {
+    "onReachBottomDistance": "50px"
+  }
+}
