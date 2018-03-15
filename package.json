@@ -1,7 +1,7 @@
 {
-  "name": "mpvue-demo",
+  "name": "wx-mp",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "微信小程序 by Sean",
   "author": "Sean <sy170107@gmail.com>",
   "private": true,
   "scripts": {
